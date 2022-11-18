@@ -8,3 +8,5 @@ Q：输入git add readme.txt，得到错误fatal: pathspec 'readme.txt' did not 
 我是另外一个同事，我修改了部分代码。
 
 我今天又写了100行代码。
+
+我今天又写了200行代码，3个bug。
